@@ -1,0 +1,3 @@
+[build]
+command = "gunicorn -b :$PORT app:app"
+publish = "path/to/your/app"

@@ -1,2 +1,6 @@
 Flask
 Gunicorn
+
+
+Flask==your_flask_version
+Flask-PyMongo==your_flask_pymongo_version
